@@ -4,7 +4,7 @@ title: |
     ![](./images/Logos.png){width=60%}
 subtitle: "Essential preparations prior to attending Bioinformatics workshop"
 author: "Ashley Sawle"
-date: "6th September 2023"
+date: "21st October 2024"
 output:
   html_document:
     number_sections: yes
@@ -37,14 +37,14 @@ are both up to date and update any packages that you already have installed.
 
 ### Installing R {-}
 
-1. Download the current version of R (version 4.3.1 as of 06/09/2023) from the
+1. Download the current version of R (version 4.4.1 as of 21/10/2024) from the
   [CRAN website](https://cran.r-project.org/bin/windows/base).  
 2. Double click the `.exe` file that was just downloaded to launch it and install R
 
 ### Installing RStudio {-}
 
 1. Go to the [RStudio download page](https://posit.co/download/rstudio-desktop/#download)
-2. Under *Installers* download **RStudio-2023.06.2-561.exe**
+2. Under *Installers* download **RStudio-2024.09.0-375.exe**
 3. Double click the file to install it
 
 
@@ -90,7 +90,7 @@ Finally install RStudio:
 
 1. Go to the [RStudio download
   page](https://posit.co/download/rstudio-desktop/#download)
-2. Under *Installers* select **Mac OS 11+ RStudio-2023.06.2-561.DMG**
+2. Under *Installers* select **Mac OS 12+ RStudio-2024.09.0-375.dmg**
 3. Double click the donwloaded file to install RStudio
 
 
@@ -143,7 +143,7 @@ install.packages("tidyverse")
 You should then see some messages as the tidyverse is installed:
 
 <center>
-![](./images/Install_tidyverse2.jpg){width=60%}
+![](./images/Install_tidyverse2.png){width=60%}
 </center>
 
 Finally, check that the tidyverse has been installed by loading it
@@ -156,7 +156,7 @@ library(tidyverse)
 and press `Enter`. You should see the following message (or similar):
 
 <center>
-![](./images/Install_tidyverse3.jpg){width=60%}
+![](./images/Install_tidyverse3.png){width=60%}
 </center>
 
 # Installing packages for the "Differential Gene Expression Analysis" workshop
@@ -188,7 +188,7 @@ install.packages("BiocManager")
 2. Now we can install Bioconductor. At the console type:
 
 ```{r eval = FALSE}
-BiocManager::install(version = "3.17")
+BiocManager::install(version = "3.19")
 ```
 
 If this is the first time you are installing Bioconductor, it can take some time. 
@@ -245,7 +245,7 @@ If a package has not installed correctly you will get a message similar to this:
 
 We will need various data files for the workshops. These can all be downloaded
 in a single zip file from 
-[here](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2023_PreCourse/Bioinformatics_workshop_data.zip).
+[here](https://bioinformatics-core-shared-training.github.io/Reverse_Summer_School_2024_PreCourse/Bioinformatics_workshop_data.zip).
 
 
 Please download this file and unzip in a suitable location on your laptop. We
