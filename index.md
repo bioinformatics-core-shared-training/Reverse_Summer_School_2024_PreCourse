@@ -27,8 +27,6 @@ Before attending the workshops you must:
 
 The documents linked above contain instructions for carrying out each of tasks.
 
-<!--
 If you have any difficulty installing any of the software then please contact
 Peter at sabakakipeterz@gmail.com for help.
--->
 
