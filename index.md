@@ -1,23 +1,17 @@
 # Cambridge Makerere Summer School
 ## Essential preparations prior to attending Bioinformatics workshop
 ### Ashley Sawle
-### 6th September 2023
+### 21st October 2024
 
 ![](./images/Logos.png)
 
-There will be two practical bioinformatics workshops delivered at the 2023 Summer School:
+There will be two practical bioinformatics workshops delivered at the 2024 Summer School:
 
-* **Introduction to R**  
-    * Monday 18th at 2:30-5:30 PM  
-    * Tuesday 19th at 1:00-5:00 PM  
-    * Wednesday 20th at 1:00-5:00 PM  
+* **Introduction to R**  - Monday - Wednesday pm
 
-* **Differential Gene Expression Analysis of RNAseq data with DESeq2 in R**  
-    * Thursday 21st at 1:30-5:30 PM
-    * Friday 22nd at 1:00-5:00 PM
+* **Differential Gene Expression Analysis of Bulk RNAseq data with DESeq2 in R** - Thursday - Friday pm
 
 ## **Essential Actions before the start of the Summer School** 
-
 
 **Please attend to this as soon as possible in order to give yourself time should you encounter any problems**
 
