@@ -3,7 +3,7 @@
 ### Ashley Sawle
 ### 21st October 2024
 
-![](./images/Logos.png)
+![](./images/Logos2024.png)
 
 There will be two practical bioinformatics workshops delivered at the 2024 Summer School:
 
