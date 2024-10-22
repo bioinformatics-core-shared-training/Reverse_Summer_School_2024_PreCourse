@@ -23,7 +23,7 @@ Before attending the workshops you must:
 1. [Install **R** and **RStudio**](Precourse_Instructions.html#installing-r-and-rstudio)
 2. [Install the `tidyverse` R package (necessary for both workshops)](Precourse_Instructions.html#installing-the-tidyverse-r-package)
 2. [Install the necessary R packages for the RNAseq workshop, if you are attending](Precourse_Instructions.html#installing-packages-for-the-differential-gene-expression-analysis-workshop)
-3. [Download the necessary data for the workshops](Precourse_Instructions.html#installing-packages-for-the-differential-gene-expression-analysis-workshop)
+3. [Download the necessary data for the workshops](Precourse_Instructions.html#downloading-the-data)
 
 The documents linked above contain instructions for carrying out each of tasks.
 
